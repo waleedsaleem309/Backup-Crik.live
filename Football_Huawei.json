@@ -1,0 +1,72 @@
+{
+    
+      "Events": [
+    {
+    "EventImage" : "https://footballwhispers.com/wp-content/uploads/2021/11/Sheffield-United-vs-Coventry-Prediction.jpg",
+    "EventName" : "Sheffield United vs Coventry City",
+  "Url" : "https://bighra.crik.live/Football_Events.json"
+  }
+        ],
+         "FIFA": [
+    {
+    "EventImage" : "http://crik.live/pics/fifa.png",
+    "EventName" : "FIFA World Cup",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  }
+        ],
+         "Bundesliga": [
+    {
+    "EventImage" : "http://crik.live/pics/bundesliga.jpg",
+    "EventName" : "Bundesliga League",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  }
+        ],
+    
+    "Channels": [
+  
+    {
+    "EventImage" : "https://crik.live/pics/bt-1.png",
+    "EventName" : "BT Sports 1",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  },
+      {
+    "EventImage" : "https://crik.live/pics/bt-2.png",
+    "EventName" : "BT Sports 2",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  },
+     {
+    "EventImage" : "https://crik.live/pics/bt-3.png",
+    "EventName" : "BT Sports 3",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  },
+    {
+    "EventImage" : "https://crik.live/pics/Ten-Sports.jpg",
+    "EventName" : "Ten Sports",
+  "Url" : "https://bighra.crik.live/Channels.json"
+  }
+],
+
+"Football": [
+    {
+    "EventImage" : "https://crik.live/pics/bt-1.png",
+    "EventName" : "BT Sports 1",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  },
+      {
+    "EventImage" : "https://crik.live/pics/bt-2.png",
+    "EventName" : "BT Sports 2",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  },
+     {
+    "EventImage" : "https://crik.live/pics/bt-3.png",
+    "EventName" : "BT Sports 3",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  },
+    {
+    "EventImage" : "https://crik.live/pics/Ten-Sports.jpg",
+    "EventName" : "Ten Sports",
+  "Url" : "https://bighra.crik.live/Channels.json"
+  }
+]
+  
+}

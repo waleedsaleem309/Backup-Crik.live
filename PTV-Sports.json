@@ -1,0 +1,16 @@
+{
+
+  
+"PTV": [
+    {
+    "EventImage" : "https://assets.crik.live/Events/psl.jpg",
+    "EventName" : "PSL 7",
+    "Url" : "https://bighra.crik.live/Events/psl.json"
+  },
+  {
+    "EventImage" : "file:///android_asset/log.png",
+    "EventName" : "PTV Sports",
+    "Url" : "https://bighra.crik.live/Channels.json"
+  }
+  ]
+}

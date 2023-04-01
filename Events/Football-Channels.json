@@ -1,0 +1,27 @@
+[
+  {    
+    "events": [
+      {
+    "Name": "BT Sports 1",
+    "Url": "https://bighra.crik.live/Football_Channels.json",
+    "ImageUrl": "http://crik.live/pics/bt-1.png",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "BT Sports 1",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+      },
+        {
+    "Name": "BT Sports 2",
+    "Url": "https://bighra.crik.live/Football_Channels.json",
+    "ImageUrl": "http://crik.live/pics/bt-2.png",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "BT Sports 1",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+      }
+    ],
+"title": "BT Sports"
+  }
+]

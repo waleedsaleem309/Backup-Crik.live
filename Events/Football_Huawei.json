@@ -1,0 +1,131 @@
+{
+    
+      "Events": [
+    {
+    "EventImage" : "https://footballwhispers.com/wp-content/uploads/2021/11/Sheffield-United-vs-Coventry-Prediction.jpg",
+    "EventName" : "Sheffield United vs Coventry City",
+  "Url" : "https://bighra.crik.live/Football_Events.json"
+  }, 
+    {
+    "EventImage" : "https://dailylivescores.com/wp-content/uploads/2020/06/0_leicester-vs-chelseaPNG.png",
+    "EventName" : "leicester city vs chelsea",
+  "Url" : "https://bighra.crik.live/Football_Events.json"
+  }, 
+    {
+    "EventImage" : "https://i.ytimg.com/vi/wh6kg8_41I8/maxresdefault.jpg",
+    "EventName" : "Hamburger SV vs Jahn Regensburg",
+  "Url" : "https://bighra.crik.live/Football_Events.json"
+  }, 
+    {
+    "EventImage" : "https://footballia.net/cache/matches/5bce44c9d469a540f006304361e8aab2.png",
+    "EventName" : "Darmstadt 98 vs St Pauli",
+  "Url" : "https://bighra.crik.live/Football_Events.json"
+  }, 
+    {
+    "EventImage" : "https://www.fullmatchsoccer.com/wp-content/uploads/2021/10/St.-Pauli-vs-Hansa-Rostock.jpg",
+    "EventName" : "Hansa Rostock vs Erzgebirge Aue",
+  "Url" : "https://bighra.crik.live/Football_Events.json"
+  }, 
+    {
+    "EventImage" : "https://news.22bet.com/wp-content/uploads/2020/06/Celta-Vigo-vs-Villarreal.jpg",
+    "EventName" : "Celta Vigo vs Villarreal",
+  "Url" : "https://bighra.crik.live/Football_Events.json"
+  }, 
+    {
+    "EventImage" : "https://dailylivescores.com/wp-content/uploads/2020/06/0_leicester-vs-chelseaPNG.png",
+    "EventName" : "leicester city vs chelsea",
+  "Url" : "https://bighra.crik.live/Football_Events.json"
+  }, 
+    {
+    "EventImage" : "https://dailylivescores.com/wp-content/uploads/2020/06/0_leicester-vs-chelseaPNG.png",
+    "EventName" : "leicester city vs chelsea",
+  "Url" : "https://bighra.crik.live/Football_Events.json"
+  }, 
+    {
+    "EventImage" : "https://dailylivescores.com/wp-content/uploads/2020/06/0_leicester-vs-chelseaPNG.png",
+    "EventName" : "leicester city vs chelsea",
+  "Url" : "https://bighra.crik.live/Football_Events.json"
+  }, 
+    {
+    "EventImage" : "https://dailylivescores.com/wp-content/uploads/2020/06/0_leicester-vs-chelseaPNG.png",
+    "EventName" : "leicester city vs chelsea",
+  "Url" : "https://bighra.crik.live/Football_Events.json"
+  }, 
+    {
+    "EventImage" : "https://dailylivescores.com/wp-content/uploads/2020/06/0_leicester-vs-chelseaPNG.png",
+    "EventName" : "leicester city vs chelsea",
+  "Url" : "https://bighra.crik.live/Football_Events.json"
+  }
+        ],
+         "FIFA": [
+    {
+    "EventImage" : "http://crik.live/pics/fifa.png",
+    "EventName" : "FIFA World Cup",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  }
+        ],
+         "Bundesliga": [
+    {
+    "EventImage" : "http://crik.live/pics/bundesliga.jpg",
+    "EventName" : "Bundesliga League",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  }
+        ],
+    
+    "Channels": [
+    {
+    "EventImage" : "https://crik.live/pics/sky-football.jpg",
+    "EventName" : "Sky Football",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  }, 
+    {
+    "EventImage" : "https://crik.live/pics/bt-1.png",
+    "EventName" : "BT Sports 1",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  },
+      {
+    "EventImage" : "https://crik.live/pics/bt-2.png",
+    "EventName" : "BT Sports 2",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  },
+     {
+    "EventImage" : "https://crik.live/pics/bt-3.png",
+    "EventName" : "BT Sports 3",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  },
+    {
+    "EventImage" : "https://crik.live/pics/Ten-Sports.jpg",
+    "EventName" : "Ten Sports",
+  "Url" : "https://bighra.crik.live/Channels.json"
+  }
+],
+
+"Football": [
+    {
+    "EventImage" : "https://crik.live/pics/sky-football.jpg",
+    "EventName" : "Sky Football",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  }, 
+    {
+    "EventImage" : "https://crik.live/pics/bt-1.png",
+    "EventName" : "BT Sports 1",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  },
+      {
+    "EventImage" : "https://crik.live/pics/bt-2.png",
+    "EventName" : "BT Sports 2",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  },
+     {
+    "EventImage" : "https://crik.live/pics/bt-3.png",
+    "EventName" : "BT Sports 3",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+  },
+    {
+    "EventImage" : "https://crik.live/pics/Ten-Sports.jpg",
+    "EventName" : "Ten Sports",
+  "Url" : "https://bighra.crik.live/Channels.json"
+  }
+]
+  
+}

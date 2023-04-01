@@ -1,0 +1,246 @@
+[{    
+    "events": [
+   {
+    "Name": "PTV Sports",
+    "Url": "https://bighra.crik.live/Channels.json",
+    "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "startDate": "2022-2-2",
+    "startTime": "00:00",
+    "EventName": "PTV Sports",
+    "endDate": "2025-12-28",
+    "endTime": "00:00"
+      }
+      ],
+"title": "PSL"
+  },{ 
+"events": [ {    
+    "events": [
+  {
+    "Name": "PAK vs AUS 1st ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
+    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "startDate": "2022-3-29",
+    "startTime": "00:00",
+    "EventName": "PAK vs AUS",
+    "endDate": "2022-3-30",
+    "endTime": "00:00"
+      },
+       {
+    "Name": "PAK vs AUS 2nd ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
+    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "startDate": "2022-3-31",
+    "startTime": "00:00",
+    "EventName": "PAK vs AUS",
+    "endDate": "2022-4-01",
+    "endTime": "00:00"
+      },
+       {
+    "Name": "PAK vs AUS 3rd ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
+    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "startDate": "2022-4-2",
+    "startTime": "00:00",
+    "EventName": "PAK vs AUS",
+    "endDate": "2022-4-2",
+    "endTime": "00:00"
+      }
+      ],
+"title": "PAK vs AUS"
+  },{
+    "Name": "A Sports",
+    "Url": "https://bighra.crik.live/Channels/a-sports.json",
+    "ImageUrl": "https://assets.crik.live/Channels/a-sports.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "A Sports",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+    }
+    ],
+    "title": "A Sports"
+    },{ 
+"events": [ 
+{    
+    "events": [
+  {
+    "Name": "PAK vs AUS 1st ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
+    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "startDate": "2022-3-29",
+    "startTime": "00:00",
+    "EventName": "PAK vs AUS",
+    "endDate": "2022-3-30",
+    "endTime": "00:00"
+      },
+       {
+    "Name": "PAK vs AUS 2nd ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
+    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "startDate": "2022-3-31",
+    "startTime": "00:00",
+    "EventName": "PAK vs AUS",
+    "endDate": "2022-4-01",
+    "endTime": "00:00"
+      },
+       {
+    "Name": "PAK vs AUS 3rd ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
+    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "startDate": "2022-4-2",
+    "startTime": "00:00",
+    "EventName": "PAK vs AUS",
+    "endDate": "2022-4-2",
+    "endTime": "00:00"
+      }
+      ],
+"title": "PAK vs AUS"
+  } 
+,{
+    "Name": "PTV Sports",
+    "Url": "https://bighra.crik.live/Channels.json",
+    "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "PTV Sports",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+    }
+    ],
+    "title": "PTV Sports"
+    },{ 
+"events": [ {    
+    "events": [
+  {
+    "Name": "PAK vs AUS 1st ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
+    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "startDate": "2022-3-29",
+    "startTime": "00:00",
+    "EventName": "PAK vs AUS",
+    "endDate": "2022-3-30",
+    "endTime": "00:00"
+      },
+       {
+    "Name": "PAK vs AUS 2nd ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
+    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "startDate": "2022-3-31",
+    "startTime": "00:00",
+    "EventName": "PAK vs AUS",
+    "endDate": "2022-4-01",
+    "endTime": "00:00"
+      },
+       {
+    "Name": "PAK vs AUS 3rd ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
+    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "startDate": "2022-4-2",
+    "startTime": "00:00",
+    "EventName": "PAK vs AUS",
+    "endDate": "2022-4-2",
+    "endTime": "00:00"
+      }
+      ],
+"title": "PAK vs AUS"
+  },{
+    "Name": "Ten Sports",
+    "Url": "https://bighra.crik.live/Channels.json",
+    "ImageUrl": "https://assets.crik.live/Channels/Ten-Sports.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "Ten Sports",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+    }
+    ],
+    "title": "Ten Sports"
+    },{ 
+"events": [ {    
+    "events": [
+       {
+    "Name": "RR vs RCB",
+    "Url": "https://bighra.crik.live/Events/ipl.json",
+    "ImageUrl": "https://assets.crik.live/Events/ipl/73.jpg",
+    "startDate": "2022-5-27",
+    "startTime": "12:00",
+    "EventName": "IPL",
+    "endDate": "2022-5-28",
+    "endTime": "12:00"
+    },
+         {
+    "Name": "RR vs RCB",
+    "Url": "https://bighra.crik.live/Events/ipl.json",
+    "ImageUrl": "https://assets.crik.live/Events/ipl/73.jpg",
+    "startDate": "2022-05-27",
+    "startTime": "00:01",
+    "EventName": "IPL",
+    "endDate": "2022-05-28",
+    "endTime": "00:01"
+    },
+       {
+    "Name": "GT vs RR",
+    "Url": "https://bighra.crik.live/Events/ipl.json",
+    "ImageUrl": "https://assets.crik.live/Events/ipl/74.jpg",
+    "startDate": "2022-5-29",
+    "startTime": "12:00",
+    "EventName": "IPL",
+    "endDate": "2022-5-30",
+    "endTime": "12:00"
+    },
+         {
+    "Name": "GT VS RR",
+    "Url": "https://bighra.crik.live/Events/ipl.json",
+    "ImageUrl": "https://assets.crik.live/Events/ipl/74.jpg",
+    "startDate": "2022-05-29",
+    "startTime": "00:01",
+    "EventName": "IPL",
+    "endDate": "2022-05-30",
+    "endTime": "00:01"
+    },
+     {
+    "Name": "Star Sports",
+    "Url": "https://bighra.crik.live/Channels.json",
+    "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "Star Sports",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+    },
+    {
+    "Name": "Star Sports Hindi",
+    "Url": "https://bighra.crik.live/Channels.json",
+    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "Star Sports Hindi",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+    }
+      ],
+"title": "IPL"
+  }
+   ,{
+    "Name": "Star Sports",
+    "Url": "https://bighra.crik.live/Channels/star.json",
+    "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "Star Sports",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+    },
+    {
+    "Name": "Star Sports Hindi",
+    "Url": "https://bighra.crik.live/Channels/star.json",
+    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "Star Sports Hindi",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+    }
+    ],
+    "title": "Star Sports"
+    }]

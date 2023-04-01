@@ -1,0 +1,35 @@
+{
+"Football": [
+    {
+    "EventImage" : "file:///android_asset/cricket.png",
+    "EventName" : "Sky Football",
+  "Url" : "https://crik.live/Football_Channels.json"
+  },
+    {
+    "EventImage" : "file:///android_asset/cricket.png",
+    "EventName" : "Ten Sports",
+  "Url" : "https://crik.live/Football_Channels.json"
+  }
+],
+  "Sky Football" : [
+  {
+  "EventImage" : "file:///android_asset/sky_football.jpg",
+  "EventName" : "Sky Football",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+}
+],
+  "Laliga" : [
+  {
+  "EventImage" : "file:///android_asset/sky_football.jpg",
+  "EventName" : "Spanish League Live",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+}
+],
+      "Premier" : [
+  {
+  "EventImage" : "file:///android_asset/sky_football.jpg",
+  "EventName" : "English League",
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
+}
+]
+}
