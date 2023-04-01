@@ -1,0 +1,57 @@
+[
+        {    
+    "events": [
+      {
+    "Name": "AD Sports 1",
+    "Url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+    "ImageUrl": "https://assets.crik.live/Channels/ad-1.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "AD Sports 1",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+      },
+        {
+    "Name": "AD Sports 2",
+    "Url": "https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/playlists.m3u8",
+    "ImageUrl": "https://assets.crik.live/Channels/ad-2.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "AD Sports 2",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+      },
+       {
+    "Name": "AD Sports 3",
+    "Url": "https://admdn3ta.cdn.mgmlcdn.com/adsports3/smil:adsports3.stream.smil/playlists.m3u8",
+    "ImageUrl": "https://assets.crik.live/Channels/ad-3.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "AD Sports 3",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+      },   {
+    "Name": "AD Sports 4",
+    "Url": "https://admdn4.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlists.m3u8",
+    "ImageUrl": "https://assets.crik.live/Channels/ad-4.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "AD Sports 3",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+      },
+        {
+    "Name": "YAS",
+    "Url": "https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/playlists.m3u8",
+    "ImageUrl": "https://assets.crik.live/Channels/yas.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "YAS",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+      }
+    ],
+"title": "AD Sports"
+  }
+]
+    

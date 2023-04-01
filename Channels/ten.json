@@ -1,0 +1,27 @@
+[
+      { 
+         "events":
+             [
+{
+"Name": "Lahore Qalandars vs Multan Sultan",
+"Url": "https://bighra.crik.live/Events/psl.json",
+"ImageUrl": "https://assets.crik.live/Events/psl/1.webp",
+"startDate": "2023-03-18",
+"startTime": "00:01",
+"EventName": "PSL 8",
+"endDate": "2023-03-18",
+"endTime": "23:59"
+},{
+    "Name": "Ten Sports",
+    "Url": "https://bighra.crik.live/Channels.json",
+    "ImageUrl": "https://assets.crik.live/Channels/Ten-Sports.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "Ten Sports",
+    "endDate": "2050-12-19",
+    "endTime": "12:00"
+    }
+    ],
+    "title": "Ten Sports"
+  }
+]
